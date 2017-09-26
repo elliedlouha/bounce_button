@@ -95,3 +95,8 @@ void draw(){
     }
   }
 }
+/*every line I tried to activate for the circle to bounce off of wouldn't or would
+  jump off of that x or y line entirely and stop moving freely around the button, plus when I tried
+  changing mojuse pressed to mouse clicked it would keep telling me my braces were off but i had
+  an equal amount of open curly brackets and closed brackets
+  */
